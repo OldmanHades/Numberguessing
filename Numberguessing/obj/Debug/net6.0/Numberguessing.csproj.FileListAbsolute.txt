@@ -1,0 +1,15 @@
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\bin\Debug\net6.0\Numberguessing.exe
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\bin\Debug\net6.0\Numberguessing.deps.json
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\bin\Debug\net6.0\Numberguessing.runtimeconfig.json
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\bin\Debug\net6.0\Numberguessing.dll
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\bin\Debug\net6.0\Numberguessing.pdb
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\obj\Debug\net6.0\Numberguessing.csproj.AssemblyReference.cache
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\obj\Debug\net6.0\Numberguessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\obj\Debug\net6.0\Numberguessing.AssemblyInfoInputs.cache
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\obj\Debug\net6.0\Numberguessing.AssemblyInfo.cs
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\obj\Debug\net6.0\Numberguessing.csproj.CoreCompileInputs.cache
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\obj\Debug\net6.0\Numberguessing.dll
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\obj\Debug\net6.0\refint\Numberguessing.dll
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\obj\Debug\net6.0\Numberguessing.pdb
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\obj\Debug\net6.0\Numberguessing.genruntimeconfig.cache
+C:\Users\hades\source\repos\Numberguessing\Numberguessing\obj\Debug\net6.0\ref\Numberguessing.dll
